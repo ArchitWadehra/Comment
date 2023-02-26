@@ -1,0 +1,65 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1634676905105/work
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+bleach @ file:///tmp/build/80754af9/bleach_1626470256873/work
+certifi==2020.6.20
+cloudpickle==1.6.0
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+cycler==0.10.0
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+entrypoints==0.2.3
+future==0.18.3
+gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1636964356021/work
+grpcio==1.14.1
+gym==0.17.3
+# Editable install with no version control (gym-mppt==0.1)
+-e c:\users\archi\python code\btp\pmax\pvcellrl-main\python\mppt-gym-rama2_mdp
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
+ipykernel==4.10.0
+ipython==5.8.0
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+jsonschema==2.6.0
+jupyter-client==5.3.3
+jupyter-core==4.5.0
+kiwisolver==1.1.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1603668500820/work
+MarkupSafe==1.0
+matplotlib==3.0.3
+mistune==0.8.3
+more-itertools @ file:///home/conda/feedstock_root/build_artifacts/more-itertools_1637732846337/work
+nbconvert==5.5.0
+nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
+notebook==5.6.0
+numpy==1.14.5
+packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1623189609245/work
+prompt-toolkit==1.0.15
+protobuf==3.6.0
+pyglet==1.5.0
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pypiwin32==223
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pywin32==301
+pywinpty==0.5.4
+pyzmq==17.1.2
+scipy==1.4.1
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
+simplegeneric==0.8.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboard==1.10.0
+tensorflow==1.10.0
+termcolor==1.1.0
+terminado==0.8.1
+testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
+tornado==5.1.1
+traitlets==4.3.2
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+win-unicode-console==0.5
+wincertstore==0.2
+zipp==1.0.0
